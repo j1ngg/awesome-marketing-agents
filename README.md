@@ -32,6 +32,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [tessak22/rival](https://github.com/tessak22/rival) - Open source competitive intelligence dashboard powered by the Tabstack API.
 *   [tessak22/devtool-gtm-playbook](https://github.com/tessak22/devtool-gtm-playbook) - Dev tool marketing playbook for GTM strategy.
 *   [tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template](https://github.com/tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template) - Developer Relations campaign strategy template.
+*   [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - Design language skill with 18 commands and curated anti-patterns that makes AI coding agents better at frontend design. Supports Claude Code, Cursor, Codex, Gemini, and more.
 
 ## MCP Servers
 
