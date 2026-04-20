@@ -17,9 +17,10 @@ A curated list of marketing AI agent skills, MCP servers, and open source framew
 Collections of instructions, prompts, and workflows that give AI agents specific marketing capabilities.
 
 *   [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - 144 open source AI marketing skills covering growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
+*   [olelehmann100kMRR/autoresearch-skill](https://github.com/olelehmann100kMRR/autoresearch-skill) - Autonomously optimize any Claude Code skill by running it repeatedly, scoring outputs against binary evals, and mutating the prompt. Based on Karpathy's autoresearch methodology.
 *   [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.
 *   [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing) - Enterprise marketing automation with 18 specialized agents, 93 slash commands, and 28 skills for Claude Code, Cursor, and GitHub Copilot.
-*   [parallel-web/parallel-agent-skills](https://github.com/parallel-web/parallel-agent-skills) - Agent skills powered by Parallel's AI-native search and research APIs for agentic workflows.
+*   [crealwork/go-viral-or-die](https://github.com/crealwork/go-viral-or-die) - Viral marketing skill for Claude Code inspired by Roy Lee (Cluely). Generates audacious, conversion-aware marketing stunts.
 *   [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) - 160+ open source skills for SEO, content, paid ads, channels, and strategies.
 *   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - AI agent skills for CRO and marketing tasks, built for technical marketers and founders.
 *   [whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) - Reusable library of agent skills for marketing, creator operations, SEO, GEO, lifecycle, and campaign execution.
@@ -34,19 +35,13 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 
 ## MCP Servers
 
-Model Context Protocol servers that give AI agents live access to marketing data and platforms.
+Open source Model Context Protocol servers that give AI agents live access to marketing data and platforms.
 
-*   [parallel-web/search-mcp](https://github.com/parallel-web/search-mcp) - Parallel Search MCP server for AI-native web search optimized for agents.
-*   [parallel-web/task-mcp](https://github.com/parallel-web/task-mcp) - Parallel Task MCP server for agentic research and monitoring workflows.
-*   [SegmentStream MCP](https://segmentstream.com/) - Cross-channel attribution, budget optimization, and campaign execution.
-*   [HubSpot MCP](https://developers.hubspot.com/mcp) - CRM data integration and pipeline management.
-*   [Google Ads MCP](https://github.com/topics/google-ads-mcp) - Google Ads campaign performance and metrics.
-*   [Meta Ads MCP](https://github.com/topics/meta-ads-mcp) - Meta/Facebook Ads campaign data.
-*   [Ahrefs MCP](https://ahrefs.com/api/mcp) - Live SEO ranking and backlink data.
-*   [Semrush MCP](https://www.semrush.com/) - Keyword and competitor data.
-*   [Shopify MCP](https://github.com/topics/shopify-mcp) - E-commerce data for AI assistants.
-*   [Klaviyo MCP](https://github.com/topics/klaviyo-mcp) - Email and SMS marketing data.
-*   [MKT1 MCP Server](https://newsletter.mkt1.co/p/build-marketing-strategy-skill-in-claude-code) - Marketing strategy skill builder.
+*   [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) - MCP server to manage Facebook and Instagram Ads (Meta Ads).
+*   [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) - Official Google Ads MCP server for LLMs to interact directly with the Google Ads API.
+*   [cnych/seo-mcp](https://github.com/cnych/seo-mcp) - Free SEO tool MCP service based on Ahrefs data, including backlinks, keyword ideas, and more.
+*   [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) - MCP server for the Shopify API, usable on MCP hosts such as Claude and Cursor.
+*   [shinzo-labs/hubspot-mcp](https://github.com/shinzo-labs/hubspot-mcp) - MCP implementation for HubSpot CRM data and pipeline management.
 
 ## Open Source Frameworks
 
