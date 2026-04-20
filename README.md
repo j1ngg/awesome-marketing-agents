@@ -19,6 +19,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - 144 open source AI marketing skills covering growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
 *   [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.
 *   [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing) - Enterprise marketing automation with 18 specialized agents, 93 slash commands, and 28 skills for Claude Code, Cursor, and GitHub Copilot.
+*   [parallel-web/parallel-agent-skills](https://github.com/parallel-web/parallel-agent-skills) - Agent skills powered by Parallel's AI-native search and research APIs for agentic workflows.
 *   [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) - 160+ open source skills for SEO, content, paid ads, channels, and strategies.
 *   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - AI agent skills for CRO and marketing tasks, built for technical marketers and founders.
 *   [whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) - Reusable library of agent skills for marketing, creator operations, SEO, GEO, lifecycle, and campaign execution.
@@ -26,14 +27,20 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [j1ngg/tech-marketing-framework](https://github.com/j1ngg/tech-marketing-framework) - Developer tools marketing framework for Claude Code and Codex with repeatable skills for content generation, messaging workshops, and autonomous skill optimization.
 *   [j1ngg/how-they-market](https://github.com/j1ngg/how-they-market) - Claude Code agent that autonomously researches how companies market themselves.
 *   [j1ngg/launch-framework](https://github.com/j1ngg/launch-framework) - Agent skills for product launch planning and execution.
+*   [tessak22/quiver](https://github.com/tessak22/quiver) - AI-powered GTM command center for product teams.
+*   [tessak22/rival](https://github.com/tessak22/rival) - Open source competitive intelligence dashboard powered by the Tabstack API.
+*   [tessak22/devtool-gtm-playbook](https://github.com/tessak22/devtool-gtm-playbook) - Dev tool marketing playbook for GTM strategy.
+*   [tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template](https://github.com/tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template) - Developer Relations campaign strategy template.
 
 ## MCP Servers
 
 Model Context Protocol servers that give AI agents live access to marketing data and platforms.
 
+*   [parallel-web/search-mcp](https://github.com/parallel-web/search-mcp) - Parallel Search MCP server for AI-native web search optimized for agents.
+*   [parallel-web/task-mcp](https://github.com/parallel-web/task-mcp) - Parallel Task MCP server for agentic research and monitoring workflows.
 *   [SegmentStream MCP](https://segmentstream.com/) - Cross-channel attribution, budget optimization, and campaign execution.
 *   [HubSpot MCP](https://developers.hubspot.com/mcp) - CRM data integration and pipeline management.
-*   [Google Ads MCP](https://github.com/nicholasgriffintn/google-ads-mcp) - Google Ads campaign performance and metrics.
+*   [Google Ads MCP](https://github.com/topics/google-ads-mcp) - Google Ads campaign performance and metrics.
 *   [Meta Ads MCP](https://github.com/topics/meta-ads-mcp) - Meta/Facebook Ads campaign data.
 *   [Ahrefs MCP](https://ahrefs.com/api/mcp) - Live SEO ranking and backlink data.
 *   [Semrush MCP](https://www.semrush.com/) - Keyword and competitor data.
@@ -45,6 +52,7 @@ Model Context Protocol servers that give AI agents live access to marketing data
 
 Frameworks for building custom marketing AI agents.
 
+*   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you. Open source agent framework with tool use, memory, and extensible skills.
 *   [LangGraph](https://langchain-ai.github.io/langgraph/) - Framework for building stateful, multi-actor applications with LLMs.
 *   [CrewAI](https://crewai.com/) - Framework for orchestrating role-playing, autonomous AI agents.
 *   [AutoGen](https://microsoft.github.io/autogen/) - Microsoft's framework for multi-agent LLM applications.
