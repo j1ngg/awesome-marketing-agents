@@ -24,7 +24,6 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) - 160+ open source skills for SEO, content, paid ads, channels, and strategies.
 *   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - AI agent skills for CRO and marketing tasks, built for technical marketers and founders.
 *   [whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) - Reusable library of agent skills for marketing, creator operations, SEO, GEO, lifecycle, and campaign execution.
-*   [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Curated collection of 1000+ agent skills from official dev teams and the community.
 *   [j1ngg/tech-marketing-framework](https://github.com/j1ngg/tech-marketing-framework) - Developer tools marketing framework for Claude Code and Codex with repeatable skills for content generation, messaging workshops, and autonomous skill optimization.
 *   [j1ngg/how-they-market](https://github.com/j1ngg/how-they-market) - Claude Code agent that autonomously researches how companies market themselves.
 *   [j1ngg/launch-framework](https://github.com/j1ngg/launch-framework) - Agent skills for product launch planning and execution.
