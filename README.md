@@ -18,7 +18,7 @@ A curated list of marketing AI agent skills, MCP servers, and open source framew
 
 | Section | What's inside | Count |
 |---------|--------------|-------|
-| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 25 |
+| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 31 |
 | [MCP Servers](#-mcp-servers) | Open source MCP servers for marketing platforms | 6 |
 | [Frameworks](#-open-source-frameworks) | Agent frameworks for building custom marketing agents | 5 |
 
@@ -39,12 +39,17 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) - Claude Code and Cowork plugin with marketing commands, agents, scripts, MCP server references, and eval/QA workflows.
 *   [realjaymes/marketingagentskills](https://github.com/realjaymes/marketingagentskills) - 27 AI agent skills for marketing tasks, built for Claude Code and similar AI coding assistants.
 *   [hyperfx-ai/marketing-skills](https://github.com/hyperfx-ai/marketing-skills) - Marketing skills for paid ads, social media, SEO, competitor research, creative generation, email, analytics, and more.
+*   [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) - 34 open source marketing skills for Claude Code covering SEO, content, email, ads, analytics, and growth.
 
 ### Research & Intelligence
 
 *   [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.
 *   [j1ngg/how-they-market](https://github.com/j1ngg/how-they-market) - Claude Code agent that autonomously researches how companies market themselves.
 *   [tessak22/rival](https://github.com/tessak22/rival) - Open source competitive intelligence dashboard powered by the Tabstack API.
+
+### Content & Editorial
+
+*   [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code blog skill suite with sub-skills and agents for content strategy, blog writing, Google rankings, and AI citations.
 
 ### GTM & Launch
 
@@ -55,6 +60,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template](https://github.com/tessak22/DevRel-Campaign-Drive-Awareness-of-Campaign-Template) - Developer Relations campaign strategy template.
 *   [getaero-io/gtm-eng-skills](https://github.com/getaero-io/gtm-eng-skills) - GTM engineering skills for lead enrichment, TAM building, signal discovery, job-change detection, and outbound automation.
 *   [sales-skills/sales](https://github.com/sales-skills/sales) - Claude Code skills for sales, marketing, and GTM workflows including prospecting, outbound, proposals, enrichment, deliverability, and retargeting.
+*   [shawnla90/gtm-coding-agent](https://github.com/shawnla90/gtm-coding-agent) - GTM engine for coding agents with onboarding, educational chapters, templates, and scripts for building a go-to-market operating system.
 
 ### Growth & Viral
 
@@ -65,6 +71,12 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [nowork-studio/toprank](https://github.com/nowork-studio/toprank) - Open source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads.
 *   [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - Marketing skills for Claude Code covering SEO audits, ad analysis, ad optimization, competitor research, and lead qualification.
 *   [adityaarsharma/youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills) - YouTube MCP server plus 21 video marketing skills for SEO, scripts, analytics, Shorts, batch updates, and WordPress publishing.
+*   [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal Claude Code SEO skill suite covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, semantic clustering, e-commerce SEO, international SEO, Google APIs, and reporting.
+*   [agencia-conversion/agentic-seo-skills](https://github.com/agencia-conversion/agentic-seo-skills) - Agentic SEO operating system as a Claude Code plugin with DataForSEO workflows, content briefs, technical SEO, and human-approval gates.
+
+### Email & Lifecycle
+
+*   [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code covering inbox triage, composition, deliverability audits, automation sequences, and marketing strategy.
 
 ### Design & Creative
 
