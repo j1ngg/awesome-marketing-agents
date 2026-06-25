@@ -100,6 +100,7 @@ Open source Model Context Protocol servers that give AI agents live access to ma
 | [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) | Shopify | 195 |
 | [shinzo-labs/hubspot-mcp](https://github.com/shinzo-labs/hubspot-mcp) | HubSpot CRM | 34 |
 | [mharnett/mcp-marketing-suite](https://github.com/mharnett/mcp-marketing-suite) | Performance Marketing (Google Ads, Meta, Microsoft, LinkedIn, Reddit, GA4, Search Console, GTM) | 0 |
+| [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | Google Ads, Meta Ads, Search Console, GA4 (+ SEO/GEO skills) | 2961 |
 
 ---
 
