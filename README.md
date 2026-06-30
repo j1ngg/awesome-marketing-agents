@@ -18,7 +18,7 @@ A curated list of marketing AI agent skills, MCP servers, and open source framew
 
 | Section | What's inside | Count |
 |---------|--------------|-------|
-| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 31 |
+| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 32 |
 | [MCP Servers](#-mcp-servers) | Open source MCP servers for marketing platforms | 6 |
 | [Frameworks](#-open-source-frameworks) | Agent frameworks for building custom marketing agents | 5 |
 
@@ -46,6 +46,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary.
 *   [j1ngg/how-they-market](https://github.com/j1ngg/how-they-market) - Claude Code agent that autonomously researches how companies market themselves.
 *   [tessak22/rival](https://github.com/tessak22/rival) - Open source competitive intelligence dashboard powered by the Tabstack API.
+*   [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) - Native Hermes Agent plugin for X/Twitter search, account reads, trend research, and approval-gated publishing workflows.
 
 ### Content & Editorial
 
