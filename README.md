@@ -116,6 +116,7 @@ Frameworks for building custom marketing AI agents.
 | [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness) | Open source AI CMO for Claude Code with marketing skills for SEO, content, email, ads, launches, CRO, AEO/GEO, and AI-search visibility. | 3 |
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Contributing
 
