@@ -99,6 +99,7 @@ Open source Model Context Protocol servers that give AI agents live access to ma
 | [cnych/seo-mcp](https://github.com/cnych/seo-mcp) | SEO (Ahrefs data) | 239 |
 | [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) | Shopify | 195 |
 | [shinzo-labs/hubspot-mcp](https://github.com/shinzo-labs/hubspot-mcp) | HubSpot CRM | 34 |
+| [fly0pants/admapix](https://github.com/fly0pants/admapix) | Competitor ad creative research ([official site](https://www.admapix.com/)) | 5 |
 | [mharnett/mcp-marketing-suite](https://github.com/mharnett/mcp-marketing-suite) | Performance Marketing (Google Ads, Meta, Microsoft, LinkedIn, Reddit, GA4, Search Console, GTM) | 0 |
 
 ---
