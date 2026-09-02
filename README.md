@@ -32,6 +32,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 
 *   [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - 144 open source AI marketing skills covering growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
 *   [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing) - Enterprise marketing automation with 18 specialized agents, 93 slash commands, and 28 skills for Claude Code, Cursor, and GitHub Copilot.
+*   [azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) - Reusable social-media skills for AI agents to plan, adapt, schedule, and publish through BulkPublish.
 *   [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) - 160+ open source skills for SEO, content, paid ads, channels, and strategies.
 *   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - AI agent skills for CRO and marketing tasks, built for technical marketers and founders.
 *   [whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) - Reusable library of agent skills for marketing, creator operations, SEO, GEO, lifecycle, and campaign execution.
