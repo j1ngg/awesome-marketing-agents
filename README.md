@@ -18,7 +18,7 @@ A curated list of marketing AI agent skills, MCP servers, and open source framew
 
 | Section | What's inside | Count |
 |---------|--------------|-------|
-| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 31 |
+| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 32 |
 | [MCP Servers](#-mcp-servers) | Open source MCP servers for marketing platforms | 6 |
 | [Frameworks](#-open-source-frameworks) | Agent frameworks for building custom marketing agents | 5 |
 
@@ -68,11 +68,12 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 
 ### Performance Marketing & SEO
 
-*   [nowork-studio/toprank](https://github.com/nowork-studio/toprank) - Open source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads.
-*   [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - Marketing skills for Claude Code covering SEO audits, ad analysis, ad optimization, competitor research, and lead qualification.
 *   [adityaarsharma/youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills) - YouTube MCP server plus 21 video marketing skills for SEO, scripts, analytics, Shorts, batch updates, and WordPress publishing.
-*   [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal Claude Code SEO skill suite covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, semantic clustering, e-commerce SEO, international SEO, Google APIs, and reporting.
 *   [agencia-conversion/agentic-seo-skills](https://github.com/agencia-conversion/agentic-seo-skills) - Agentic SEO operating system as a Claude Code plugin with DataForSEO workflows, content briefs, technical SEO, and human-approval gates.
+*   [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal Claude Code SEO skill suite covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, semantic clustering, e-commerce SEO, international SEO, Google APIs, and reporting.
+*   [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - Marketing skills for Claude Code covering SEO audits, ad analysis, ad optimization, competitor research, and lead qualification.
+*   [Jonathangroschel/marketingrouter-agent-kit](https://github.com/Jonathangroschel/marketingrouter-agent-kit) - Agent skill for Meta ad creative, prepaid customer funding, campaign preparation and reporting through MarketingRouter's REST API, with owner-approved spending.
+*   [nowork-studio/toprank](https://github.com/nowork-studio/toprank) - Open source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads.
 
 ### Email & Lifecycle
 
