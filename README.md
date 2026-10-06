@@ -39,6 +39,7 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 *   [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) - Claude Code and Cowork plugin with marketing commands, agents, scripts, MCP server references, and eval/QA workflows.
 *   [realjaymes/marketingagentskills](https://github.com/realjaymes/marketingagentskills) - 27 AI agent skills for marketing tasks, built for Claude Code and similar AI coding assistants.
 *   [hyperfx-ai/marketing-skills](https://github.com/hyperfx-ai/marketing-skills) - Marketing skills for paid ads, social media, SEO, competitor research, creative generation, email, analytics, and more.
+*   [LuCheremisina/marketing-skills](https://github.com/LuCheremisina/marketing-skills) - Marketing workflows for research, SEO/GEO, Yandex search and campaign analytics, and sourced expert content.
 *   [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) - 34 open source marketing skills for Claude Code covering SEO, content, email, ads, analytics, and growth.
 
 ### Research & Intelligence
