@@ -99,6 +99,7 @@ Open source Model Context Protocol servers that give AI agents live access to ma
 | [cnych/seo-mcp](https://github.com/cnych/seo-mcp) | SEO (Ahrefs data) | 239 |
 | [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) | Shopify | 195 |
 | [shinzo-labs/hubspot-mcp](https://github.com/shinzo-labs/hubspot-mcp) | HubSpot CRM | 34 |
+| [AgentSEO-dev/agentseo-clients](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server) | SEO and AEO (Google SERPs, keywords, backlinks, rank tracking, site audits, and AI search visibility); open-source MCP client for the hosted AgentSEO API | 0 |
 | [mharnett/mcp-marketing-suite](https://github.com/mharnett/mcp-marketing-suite) | Performance Marketing (Google Ads, Meta, Microsoft, LinkedIn, Reddit, GA4, Search Console, GTM) | 0 |
 
 ---
