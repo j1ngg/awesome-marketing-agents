@@ -28,6 +28,8 @@ A curated list of marketing AI agent skills, MCP servers, and open source framew
 
 Collections of instructions, prompts, and workflows that give AI agents specific marketing capabilities.
 
+*   [Kortix-seo/ai-marketing-agents](https://github.com/Kortix-seo/ai-marketing-agents) - A working marketing agent for Kortix CompanyOS: a send policy with a 24-hour approval window, a marketing-voice skill and a claim-check skill, all in one repo a team owns.
+
 ### Multi-Skill Collections
 
 *   [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) - 144 open source AI marketing skills covering growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
