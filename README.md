@@ -18,7 +18,7 @@ A curated list of marketing AI agent skills, MCP servers, and open source framew
 
 | Section | What's inside | Count |
 |---------|--------------|-------|
-| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 31 |
+| [Agent Skills](#-agent-skills) | Prompts, workflows, and skill files for marketing agents | 32 |
 | [MCP Servers](#-mcp-servers) | Open source MCP servers for marketing platforms | 6 |
 | [Frameworks](#-open-source-frameworks) | Agent frameworks for building custom marketing agents | 5 |
 
@@ -77,6 +77,8 @@ Collections of instructions, prompts, and workflows that give AI agents specific
 ### Email & Lifecycle
 
 *   [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code covering inbox triage, composition, deliverability audits, automation sequences, and marketing strategy.
+
+*   [moonlitnayeem/fairvalid-ai email-verification](https://github.com/moonlitnayeem/fairvalid-ai/tree/main/skills/email-verification) - Guides agents through authorized email verification and result retrieval using the FairValid MCP connection (freemium hosted service).
 
 ### Design & Creative
 
